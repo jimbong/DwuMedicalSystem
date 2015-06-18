@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+	<name>Drop Down Menu Apple style</name>
+	<author>kksou</author>
+	<creationDate>October 2008</creationDate>
+	<copyright>(C) kksou.com. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>support@kksou.com</authorEmail>
+	<authorUrl>www.kksou.com/php-gtk2/</authorUrl>
+	<version>2.56</version>
+	<description>This plugin allows you to insert the Drop Down Menu Apple style from www.dynamicdrive.com with the tags {DropDown_Menu_Apple_style} ... {/DropDown_Menu_Apple_style}.</description>
+	<files>
+		<filename plugin="DropDownMenuApplestyle">DropDownMenuApplestyle.php</filename>
+		<filename>DropDownMenuApplestyle/ddlevelsmenu.lib.php</filename>
+		<filename>DropDownMenuApplestyle/DropDownMenuApplestyle.lib.php</filename>
+		<filename>DropDownMenuApplestyle/ddlevelsmenu-base.css</filename>
+		<filename>DropDownMenuApplestyle/ddlevelsmenu-sidebar.css</filename>
+		<filename>DropDownMenuApplestyle/ddlevelsmenu-topbar.css</filename>
+		<filename>DropDownMenuApplestyle/ddlevelsmenu.js</filename>
+		<filename>DropDownMenuApplestyle/silvergradient.gif</filename>
+		<filename>DropDownMenuApplestyle/silvergradientover.gif</filename>
+		<filename>DropDownMenuApplestyle/README.txt</filename>
+		<filename>DropDownMenuApplestyle/triangle-1.png</filename>
+		<filename>DropDownMenuApplestyle/star-1.png</filename>
+		<filename>DropDownMenuApplestyle/arrow-down.gif</filename>
+		<filename>DropDownMenuApplestyle/arrow-right.gif</filename>
+		<filename>DropDownMenuApplestyle/bulletlist.gif</filename>
+	</files>
+
+</extension>
